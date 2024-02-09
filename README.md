@@ -1,0 +1,2 @@
+# MyFirstAddon
+Meu primeiro addon.
